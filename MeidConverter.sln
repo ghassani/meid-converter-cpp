@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MeidConverter", "MeidConverter\MeidConverter.vcxproj", "{BFC17EA1-BE9B-4E80-95E0-3943454F3C65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C900C84-CCE4-40E2-800A-892DA2430FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC17EA1-BE9B-4E80-95E0-3943454F3C65}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFC17EA1-BE9B-4E80-95E0-3943454F3C65}.Debug|Win32.Build.0 = Debug|Win32
+		{BFC17EA1-BE9B-4E80-95E0-3943454F3C65}.Release|Win32.ActiveCfg = Release|Win32
+		{BFC17EA1-BE9B-4E80-95E0-3943454F3C65}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
